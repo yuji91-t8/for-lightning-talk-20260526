@@ -1,0 +1,12 @@
+{
+  "name": "prompt-confirmation-hell",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev --port 3030"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.49.0",
+    "@slidev/theme-default": "latest"
+  }
+}
